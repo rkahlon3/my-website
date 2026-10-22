@@ -1,0 +1,72 @@
+h3 {
+   text-transform: uppercase;
+}
+
+p {
+    text-align: right;
+    font-family: Arial;
+}
+
+body {
+    background-image: url("https://codehs.com/uploads/7130fc02b44dc1b68d378b162f53a8f9") ;
+}
+
+a {
+  font-size: 16px;
+  font-style: italic;
+}
+
+
+iframe {
+    height: 600px;
+    width: 100%;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    border: solid;
+    border-width: 5px;
+    transition:height 1s, width 1s;
+}
+
+img:hover{
+    height: 400px;
+    width: 400px;
+}
+
+
+header {
+    border-style: solid;
+    background-color:aliceblue;   
+}
+
+main {
+    padding:10px;
+    background-color:aliceblue;  
+    height:80%;
+    width:70%;
+    margin:15px;
+    min-height:600px;
+}
+
+footer {
+    background-color:aliceblue;   
+    margin:50px;
+    padding:10px;
+}
+
+.job-title{
+    font-weight: bold;
+    color: maroon;
+}
+
+.large-list{
+    font-size:25px;
+    font-weight: bold;
+}
+
+ol ul{
+    font-size:18px;
+    font-weight:normal;
+}
